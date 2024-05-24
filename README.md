@@ -1,1 +1,1 @@
-This project is all about Js proof
+This project is all about Js proof.
